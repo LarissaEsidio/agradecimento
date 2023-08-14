@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agradecemos por sua compra!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            background-color: #f5f5f5;
+            padding: 20px 0;
+        }
+        h1 {
+            color: #333;
+        }
+        #video-container {
+            text-align: center;
+            margin: 20px auto;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Obrigado por escolher a Loja Infantil Feliz!</h1>
+    </header>
+    <div id="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/seu_codigo_do_video" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <footer>
+        <p>Endereço: Rua das Crianças, 123 - Bairro Feliz - Cidade Alegre</p>
+        <p>CNPJ: 12.345.678/0001-90</p>
+    </footer>
+</body>
+</html>
